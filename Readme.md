@@ -16,9 +16,9 @@ envoyez un message comme à un contact — « Appeler le garage », « Le four,
 
 *Le fil : les messages arrivés à gauche, ceux qui attendent leur heure à droite avec la pastille horloge, un séparateur par journée.*
 
-<img src="images/02-choix-heure.png" width="280" alt="On écrit, on appuie sur envoyer : l'application demande quand le message doit arriver — dans une heure, ce soir, demain matin, lundi, ou une date précise.">
+<img src="images/02-choix-heure.png" width="280" alt="On écrit, on appuie sur envoyer : l'application demande quand le message doit arriver — dans cinq minutes, ce soir, demain matin, lundi, ou l'heure exacte sur les rouleaux, avec le délai affiché.">
 
-*On écrit, on appuie sur envoyer : l'application demande quand le message doit arriver — dans une heure, ce soir, demain matin, lundi, ou une date précise.*
+*On écrit, on appuie sur envoyer : l'application demande quand le message doit arriver — dans cinq minutes, ce soir, demain matin, lundi, ou l'heure exacte sur les rouleaux, avec le délai affiché.*
 
 <img src="images/03-message-programme.png" width="280" alt="Un message programmé se touche : changer l'heure, le faire arriver tout de suite, modifier le texte, copier, supprimer.">
 
