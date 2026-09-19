@@ -24,11 +24,15 @@ envoyez un message comme à un contact — « Appeler le garage », « Le four,
 
 *Un message programmé se touche : changer l'heure, le faire arriver tout de suite, modifier le texte, copier, supprimer.*
 
-<img src="images/04-windows.png" width="820" alt="La même chose sur Windows : le fil, l'heure à côté de chaque bulle, la saisie en bas.">
+<img src="images/04-profil.png" width="280" alt="Mon profil : photo, nom, statut et notes à soi — comme la fiche d'un contact.">
+
+*Mon profil : photo, nom, statut et notes à soi — comme la fiche d'un contact.*
+
+<img src="images/05-windows.png" width="820" alt="La même chose sur Windows : le fil, l'heure à côté de chaque bulle, la saisie en bas.">
 
 *La même chose sur Windows : le fil, l'heure à côté de chaque bulle, la saisie en bas.*
 
-<img src="images/05-reglages-windows.png" width="820" alt="Les réglages sur Windows : mode clair ou sombre, couleur du thème (teintes Samsung, puis toute la grille Material).">
+<img src="images/06-reglages-windows.png" width="820" alt="Les réglages sur Windows : mode clair ou sombre, couleur du thème (teintes Samsung, puis toute la grille Material).">
 
 *Les réglages sur Windows : mode clair ou sombre, couleur du thème (teintes Samsung, puis toute la grille Material).*
 
