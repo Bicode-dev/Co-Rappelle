@@ -12,23 +12,23 @@ envoyez un message comme à un contact — « Appeler le garage », « Le four,
 
 ## Aperçu
 
-![Le fil : les messages arrivés à gauche, ceux qui attendent leur heure à droite avec la pastille horloge, un séparateur par journée.](images/01-fil.png)
+<img src="images/01-fil.png" width="280" alt="Le fil : les messages arrivés à gauche, ceux qui attendent leur heure à droite avec la pastille horloge, un séparateur par journée.">
 
 *Le fil : les messages arrivés à gauche, ceux qui attendent leur heure à droite avec la pastille horloge, un séparateur par journée.*
 
-![On écrit, on appuie sur envoyer : l'application demande quand le message doit arriver — dans une heure, ce soir, demain matin, lundi, ou une date précise.](images/02-choix-heure.png)
+<img src="images/02-choix-heure.png" width="280" alt="On écrit, on appuie sur envoyer : l'application demande quand le message doit arriver — dans une heure, ce soir, demain matin, lundi, ou une date précise.">
 
 *On écrit, on appuie sur envoyer : l'application demande quand le message doit arriver — dans une heure, ce soir, demain matin, lundi, ou une date précise.*
 
-![Un message programmé se touche : changer l'heure, le faire arriver tout de suite, modifier le texte, copier, supprimer.](images/03-message-programme.png)
+<img src="images/03-message-programme.png" width="280" alt="Un message programmé se touche : changer l'heure, le faire arriver tout de suite, modifier le texte, copier, supprimer.">
 
 *Un message programmé se touche : changer l'heure, le faire arriver tout de suite, modifier le texte, copier, supprimer.*
 
-![La même chose sur Windows : le fil, l'heure à côté de chaque bulle, la saisie en bas.](images/04-windows.png)
+<img src="images/04-windows.png" width="820" alt="La même chose sur Windows : le fil, l'heure à côté de chaque bulle, la saisie en bas.">
 
 *La même chose sur Windows : le fil, l'heure à côté de chaque bulle, la saisie en bas.*
 
-![Les réglages sur Windows : mode clair ou sombre, couleur du thème (teintes Samsung, puis toute la grille Material).](images/05-reglages-windows.png)
+<img src="images/05-reglages-windows.png" width="820" alt="Les réglages sur Windows : mode clair ou sombre, couleur du thème (teintes Samsung, puis toute la grille Material).">
 
 *Les réglages sur Windows : mode clair ou sombre, couleur du thème (teintes Samsung, puis toute la grille Material).*
 
